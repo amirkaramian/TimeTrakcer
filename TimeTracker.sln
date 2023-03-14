@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTracker", "TimeTracker\TimeTracker.csproj", "{B2563044-249D-46EA-BE5C-E6E2CD35A44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2563044-249D-46EA-BE5C-E6E2CD35A44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2563044-249D-46EA-BE5C-E6E2CD35A44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2563044-249D-46EA-BE5C-E6E2CD35A44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2563044-249D-46EA-BE5C-E6E2CD35A44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F1C2D1-9F51-409D-8DA9-CFD4B02A05C2}
+	EndGlobalSection
+EndGlobal
